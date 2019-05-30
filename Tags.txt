@@ -1,6 +1,6 @@
 kapo (head)
 korp (body)
-	kaploko (header)
+	kaplok (header)
 	enhavo (content)
 		artikolo (article)
 			t1/t6 (h1/h6)
