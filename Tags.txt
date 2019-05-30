@@ -1,5 +1,5 @@
 kapo (head)
-korpo (body)
+korp (body)
 	kaploko (header)
 	enhavo (content)
 		artikolo (article)
