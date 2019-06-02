@@ -13,3 +13,9 @@ korp (body)
 			st (s)
 			m (small)
 	pied (footer)
+
+----------------------------------------------------
+
+- meta
+- directory tag (from PEHTML)
+- rating tag (from PEHTML)

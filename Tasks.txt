@@ -1,4 +1,6 @@
-- Test rendering app
+- .jml
+- .jmlx (16-bit compressed, prioritized from online conn)
+- Works on Kaypi
 - JML.js
 - Site
 - Blog
