@@ -1,6 +1,7 @@
 - .jml
 - .jmlx (16-bit compressed, prioritized from online conn)
 - Works on Kaypi
+- Render markdown for faster parsing (use MD instead of own tags)
 - JML.js
 - Site
 - Blog
