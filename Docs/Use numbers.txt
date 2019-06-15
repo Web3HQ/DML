@@ -1,0 +1,8 @@
+To use a plain number, mark that the next number isn`t a tag:
+
+1korp id=body
+	1.1kaplok id=header
+	1.1enhavo id=content
+		1.2.1artikol id=article class=blog in=Article`s content
+			1.2.1.1>t1> id=h1
+			1.2.1.1>t1 id=hwithoutnumber

@@ -1,0 +1,37 @@
+QML as a data store:
+
+1users
+	1.1alice
+		1.1.1fulln=Alice Althea
+		1.1.1addr>=dataddress
+	1.2bob
+		1.2.1fulln=Bob Bulbasaur
+		1.2.1addr>=dataddress
+
+Compared to JSON:
+
+{
+"users":[{
+"alice":[{
+"fulln":"Alice Althea",
+"addr":"dataddress",
+}],
+"bob":[{
+"fulln":"Bob Bulbasaur",
+"addr":"dataddress",
+}]
+}]
+}
+
+QML haves 5 lines & 8-17 characters less than JSON.
+
+QML can also be smaller for bigger datasets:
+
+1alice
+	1.1fulln=Alice Althea
+	1.1addr>=dataddress
+1bob
+	1.1fulln=Bob Bulbasaur
+	1.1addr>=dataddress
+
+Usually QML haves 5 lines & 8-17 characters less than JSON.

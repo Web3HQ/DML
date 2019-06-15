@@ -1,0 +1,28 @@
+QML:
+
+1korp id=body1.1kaplok id=header1.2enhavo id=content1.2.1artikol id=article class=blog in=Article`s content
+
+HTML:
+
+<body id="korp"><header id="kaplok"></header><content id="enhavo"><article id="artikol" class="blog">Article`s content</article></content></body>
+
+While JSON is sometimes faster to parse than HTML, it gives more bytes to read/download.
+But QML language is faster than both JSON and HTML, and also uses less bytes.
+HTML uses 38-43 more characters than QML.
+
+QML is also smaller as well when visualy (human-readable) structured, compared to HTML:
+
+1korp id=body
+	1.1kaplok id=header
+	1.1enhavo id=content
+		1.2.1artikol id=article class=blog in=Article`s content
+
+<body id="korp">
+	<header id="kaplok"></header>
+	<content id="enhavo">
+		<article id="artikol" class="blog">Article`s content
+		</article>
+	</content>
+</body>
+
+HTML uses 3 more lines than QML.

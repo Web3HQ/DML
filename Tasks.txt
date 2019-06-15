@@ -8,3 +8,5 @@
 - Op Gv
 
 https://en.wikipedia.org/wiki/Semantic_Web#Limitations_of_HTML
+
+QML could support to render some markdown tags for faster parsing.
