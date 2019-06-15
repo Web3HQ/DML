@@ -6,3 +6,5 @@
 - Site
 - Blog
 - Op Gv
+
+https://en.wikipedia.org/wiki/Semantic_Web#Limitations_of_HTML

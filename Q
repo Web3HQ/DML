@@ -1,0 +1,4 @@
+go: https://www.google.com/search?client=ubuntu&channel=fs&q=go+vs.+javascript&ie=utf-8&oe=utf-8
+ruby: https://www.google.com/search?client=ubuntu&channel=fs&q=ruby+vs.+javascript&ie=utf-8&oe=utf-8
+rust: https://www.google.com/search?client=ubuntu&channel=fs&q=rust+vs.+javascript&ie=utf-8&oe=utf-8
+typescript/coffeescript: https://www.google.com/search?client=ubuntu&channel=fs&q=typescript+vs.+coffeescript&ie=utf-8&oe=utf-8
