@@ -2,3 +2,10 @@ go: https://www.google.com/search?client=ubuntu&channel=fs&q=go+vs.+javascript&i
 ruby: https://www.google.com/search?client=ubuntu&channel=fs&q=ruby+vs.+javascript&ie=utf-8&oe=utf-8
 rust: https://www.google.com/search?client=ubuntu&channel=fs&q=rust+vs.+javascript&ie=utf-8&oe=utf-8
 typescript/coffeescript: https://www.google.com/search?client=ubuntu&channel=fs&q=typescript+vs.+coffeescript&ie=utf-8&oe=utf-8
+
+ES2016/17
+generators, promises, classes and other features from EcmaScript specification
+
+https://binary-studio.com/2017/08/11/typescript-helps-write-better-code/
+http://web.archive.org/web/20190618041201/https://dev.to/vaibhavshah/will-webassembly-replace-javascript-or-will-wasm-make-javascript-more-valuable-in-future-5c6e
+http://web.archive.org/web/20190618032749/https://news.ycombinator.com/item?id=12102361

@@ -1,12 +1,13 @@
-- .jml
-- .jmlx (16-bit compressed, prioritized from online conn)
+- Script that is firstly downloaded, and works offline for rendering QML into HTML on classic browsers
+- JML.js
+
+- .qml
+- .qmlx (16-bit compressed, prioritized from slow online conn)
 - Works on Kaypi
 - Render markdown for faster parsing (use MD instead of own tags)
-- JML.js
+- Embed, sandbox QML (a social network can enable posting in QML)
 - Site
 - Blog
 - Op Gv
 
 https://en.wikipedia.org/wiki/Semantic_Web#Limitations_of_HTML
-
-QML could support to render some markdown tags for faster parsing.
