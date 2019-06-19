@@ -99,6 +99,7 @@ QML haves 5 lines & 32-41 characters less than JSON.
 
 - QML haves Esperanto as main language, while Emmet uses English
 - QML is also used for datastores
+- QML supports human-readable, word-wrapped identation
 
 ## Contributing
 
@@ -123,4 +124,4 @@ Please follow our <a href="http://www.contributor-covenant.org/" target="_blank"
 
 ## Related links
 
-<a href="https://emmet.io/" target="_blank">Emmet Markup Language</a>
+<a href="https://emmet.io/" target="_blank">Emmet Markup Language</a> (in which QML is based)
